@@ -12,7 +12,7 @@
 
 body {
     margin: 50px;
-
+    overflow-x: hidden;
     background-color: #ff4029;
     font-family: Arial, Helvetica, sans-serif;
 }
