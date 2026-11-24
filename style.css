@@ -202,3 +202,15 @@ body {
 
 
 }
+.zx{
+    display: flex;
+    justify-content: space-around;
+   height: 180px;
+    background-color: #f02228;
+    width: 107%;
+    margin-left: -20px;
+    color: white;
+    margin-left: -50px;
+    padding-top: 50px;
+
+}
