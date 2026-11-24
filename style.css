@@ -214,3 +214,30 @@ body {
     padding-top: 50px;
 
 }
+.oxir{
+    display: flex;
+    justify-content: space-around;
+    background-color: #202329;
+    width: 107%;
+    margin-left: -50px;
+    height: 400px;
+    padding-top: 50px;
+    color: white;
+    
+
+}
+.nn{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+
+}
+.vv2{
+    padding-left: 100px;
+}
+.jj{
+    display: flex;
+    color: white;
+    margin-left: 1100px;
+    
+}
